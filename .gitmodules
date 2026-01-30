@@ -1,0 +1,3 @@
+[submodule "nonebot_plugin_wft"]
+	path = nonebot_plugin_wft
+	url = https://github.com/shiyihang2007/nonebot_plugin_wft.git
